@@ -7,3 +7,5 @@ output: pdf_document
 
 ## Synopsis
 
+Does the document have a synopsis that describes and summarizes the data analysis in less than 10 sentences?
+
